@@ -1,1 +1,1 @@
-# hotel_homepage
+# cottage_homepage
